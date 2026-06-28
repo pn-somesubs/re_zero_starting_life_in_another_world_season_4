@@ -1,0 +1,357 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+Title: pn-somesubs - Re:ZERO -Starting Life in Another World- Season 4
+ScaledBorderAndShadow: Yes
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,30,30,60,1
+Style: DefaultTop,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,30,30,60,1
+Style: FlashbackTop,Gandhi Sans,72,&H00FFFFFF,&H000000FF,&H00400000,&HA0400000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,60,60,60,1
+Style: Signs,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,8,90,90,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\fs40\an7\fe162\b\fad(400,400)\bord2\blur1\shad\4c&H000000&\4a&HFF&\pos(5.6,6.467)\fscx90\fscy100}{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} SamuraiChavo, Oxygen\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFFFF&} V{\c&HE6E6E6&}e{\c&HCDCDCD&}l{\c&HB4B4B4&}n{\c&H9B9B9B&}o{\c&H828282&}x{\c&H696969&}y \N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFFFF&} V{\c&HE6E6E6&}e{\c&HCDCDCD&}l{\c&HB4B4B4&}n{\c&H9B9B9B&}o{\c&H828282&}x{\c&H696969&}y\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub\N
+
+Dialogue: 0,0:00:02.92,0:00:04.65,Default,,0,0,0,,Ah...
+Dialogue: 0,0:00:05.37,0:00:08.40,Default,,0,0,0,,Umi, televizyonu göremiyorum.
+Dialogue: 0,0:00:08.72,0:00:11.84,Default,,0,0,0,,Omuzumun üzerinden bakıver.
+Dialogue: 0,0:00:11.84,0:00:14.34,Default,,0,0,0,,Bu durum hakkında bilemiyorum.
+Dialogue: 0,0:00:14.34,0:00:16.96,Default,,0,0,0,,Beni bayağı garip hissettiriyor.
+Dialogue: 0,0:00:17.28,0:00:21.26,Default,,0,0,0,,Hey, şu an sadece ikimiz varız.
+Dialogue: 0,0:00:21.96,0:00:25.51,DefaultItalics,,0,0,0,,Daha yukarıya çıkmasa iyi olur gibi.
+Dialogue: 0,0:00:27.35,0:00:28.82,Default,,0,0,0,,Maki, seni sapık.
+Dialogue: 0,0:00:29.35,0:00:31.26,Default,,0,0,0,,Daha hiçbir şey yapmamıştım.
+Dialogue: 0,0:00:31.26,0:00:37.85,Default,,0,0,0,,Benim göğüsüme bir şekilde dokunduğun senaryoya kendimi hazırlıyorum sadece.
+Dialogue: 0,0:00:37.85,0:00:39.67,Default,,0,0,0,,Bir sapık adayı diyebiliriz.
+Dialogue: 0,0:00:39.96,0:00:41.82,Default,,0,0,0,,Lütfen deme.
+Dialogue: 0,0:00:43.89,0:00:46.92,Default,,0,0,0,,Tamam zaman tükendi! Biz kazandık!
+Dialogue: 0,0:00:46.92,0:00:49.57,Default,,0,0,0,,Liderlik tablosu'nda hak ettiğimiz yere geri döndük!
+Dialogue: 0,0:00:49.57,0:00:53.99,Default,,0,0,0,,Evet. Sanırım bu durum işe yarayabilir.
+Dialogue: 0,0:00:53.99,0:00:57.45,Default,,0,0,0,,Hadi ama? Sende öyle düşünüyorsun değil mi?
+Dialogue: 0,0:00:57.70,0:01:04.62,Default,,0,0,0,,Beni tuttuğun zaman, arkamda sen olduğun için daha fazla risk alabilirmişim gibi geliyor.
+Dialogue: 0,0:01:04.62,0:01:07.37,DefaultItalics,,0,0,0,,Benim ne kadar zorlandığım\N hakkında gram fikri yok.
+Dialogue: 0,0:01:07.73,0:01:09.59,DefaultItalics,,0,0,0,,Onun havada ki tatlı kokusu,
+Dialogue: 0,0:01:09.59,0:01:12.68,DefaultItalics,,0,0,0,,bedeninin yumuşaklığı...
+Dialogue: 0,0:01:12.68,0:01:16.64,Default,,0,0,0,,Tamam, böyleyken bir el daha atalım!
+Dialogue: 0,0:01:16.98,0:01:18.43,Default,,0,0,0,,Zamanımız neredeyse bitiyor.
+Dialogue: 0,0:01:18.43,0:01:20.34,Default,,0,0,0,,Bu kadar oyun yeter.\NKalkmaya hazırlan.
+Dialogue: 0,0:01:20.67,0:01:24.56,Default,,0,0,0,,{\pos(1619,805)}Ne?! Tam da moda giriyordum.
+Dialogue: 0,0:01:24.92,0:01:26.56,Default,,0,0,0,,Sızlanmayı bırak.
+Dialogue: 0,0:01:26.56,0:01:29.28,Default,,0,0,0,,Annenle anlaştığın saatte evde olman lazım.
+Dialogue: 0,0:01:29.28,0:01:30.56,Default,,0,0,0,,Hadi ama...
+Dialogue: 0,0:01:31.78,0:01:33.99,Default,,0,0,0,,Yok... Olmaz.
+Dialogue: 0,0:01:34.31,0:01:36.20,Default,,0,0,0,,Daha bir şey dememiştim.
+Dialogue: 0,0:01:36.20,0:01:38.81,Default,,0,0,0,,Gitmek istemiyorsun, değil mi?
+Dialogue: 0,0:01:39.21,0:01:41.40,Default,,0,0,0,,Bu yüzden sana önceden hayır dedim.
+Dialogue: 0,0:01:41.40,0:01:44.12,Default,,0,0,0,,Aptal, beni taklit etme.
+Dialogue: 0,0:01:47.14,0:01:48.21,Default,,0,0,0,,Hey...
+Dialogue: 0,0:01:49.06,0:01:51.34,Default,,0,0,0,,Sevgililer günü yaklaşıyor.
+Dialogue: 0,0:01:52.06,0:01:54.43,Default,,0,0,0,,Evet, cidden yılın o zamanı geldi.
+Dialogue: 0,0:01:54.43,0:01:59.14,Default,,0,0,0,,Senin için tüm kalbimle çikolata yapacağım.
+Dialogue: 0,0:01:59.14,0:02:00.95,Default,,0,0,0,,T-Tamam.
+Dialogue: 0,0:02:01.76,0:02:06.34,DefaultItalics,,0,0,0,,Sevgililer gününün benim için \N önemli bir şey olacağını düşünmezdim.
+Dialogue: 0,0:02:06.98,0:02:08.31,DefaultItalics,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:02:08.31,0:02:11.75,DefaultItalics,,0,0,0,,Birisiyle çıkarken daha ilgi çekici sanki?
+Dialogue: 0,0:03:43.81,0:03:44.68,Default,,0,0,0,,Buyur.
+Dialogue: 0,0:03:45.18,0:03:46.21,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:03:49.71,0:03:51.46,Default,,0,0,0,,Buyur, sınıf temsilcisi.
+Dialogue: 0,0:03:52.27,0:03:56.17,Default,,0,0,0,,Teşekkür ederim. \N Bunları bütün sınıfa dağıtıyorsun galiba?
+Dialogue: 0,0:03:56.49,0:04:01.84,Default,,0,0,0,,Neredeyse bir yıla yakın bir zaman geçirdik,\N  en azından bunu yapmalıyım.
+Dialogue: 0,0:04:01.84,0:04:04.87,Default,,0,0,0,,Bana karşılığını verirken sınır tanıma gerek yok.
+Dialogue: 0,0:04:04.87,0:04:06.65,Default,,0,0,0,,Pamuk eller cebe.
+Dialogue: 0,0:04:07.40,0:04:10.90,Default,,0,0,0,,Pekala, o zaman bende ona bir paket hazır bisküvi almalıyım.
+Dialogue: 0,0:04:13.12,0:04:17.56,Default,,0,0,0,,Umi ile ben, yarın Nina ile çikolata yapacağız.
+Dialogue: 0,0:04:17.56,0:04:19.41,Default,,0,0,0,,Dört gözle bekliyorum.
+Dialogue: 0,0:04:19.41,0:04:22.43,Default,,0,0,0,,Senin Maki-kun ile ilk Sevgililer Günün.
+Dialogue: 0,0:04:22.43,0:04:25.56,Default,,0,0,0,,Ona tadı güzel bir şey vermek istiyorsun değil mi?
+Dialogue: 0,0:04:25.56,0:04:27.87,Default,,0,0,0,,Evet, bi' problem mi var?
+Dialogue: 0,0:04:27.87,0:04:30.25,Default,,0,0,0,,Hayır hiçte bile.
+Dialogue: 0,0:04:30.25,0:04:33.22,Default,,0,0,0,,Aksine, şu an çok tatlısın.
+Dialogue: 0,0:04:33.22,0:04:35.72,Default,,0,0,0,,Değil mi, Maki-kun?
+Dialogue: 0,0:04:35.72,0:04:37.67,Default,,0,0,0,,Tabii, öyle.
+Dialogue: 0,0:04:44.74,0:04:46.12,Default,,0,0,0,,N'aber?
+Dialogue: 0,0:04:46.12,0:04:48.18,Default,,0,0,0,,Sevgililer gününüz kutlu olsun!
+Dialogue: 0,0:04:48.62,0:04:52.37,Default,,0,0,0,,Söz verdiğimiz gibi, üçümüzün yaptığı çikolata.
+Dialogue: 0,0:04:52.37,0:04:53.87,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:04:54.86,0:04:52.37,Default,,0,0,0,,Eee...
+Dialogue: 0,0:04:56.60,0:05:00.80,Default,,0,0,0,,Oh, aslında Umi de bizimle beraber gelecekti.
+Dialogue: 0,0:05:00.80,0:05:04.00,Default,,0,0,0,,Ama sana yaptığı çikolatayı beğenmedi.
+Dialogue: 0,0:05:04.00,0:05:06.18,Default,,0,0,0,,Bu yüzden gelmedi.
+Dialogue: 0,0:05:06.50,0:05:10.55,Default,,0,0,0,,Şu an malzeme almış ve evde deniyordur.
+Dialogue: 0,0:05:10.55,0:05:11.91,Default,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:05:14.87,0:05:18.50,Default,,0,0,0,,Of, çok iyi geldi.
+Dialogue: 0,0:05:16.80,0:05:19.37,Signs,,0,0,0,,{\an9}Amami-san ve Nitta-san bana neler döndüğünü söyledi, bir sorun var mı?
+Dialogue: 0,0:05:16.80,0:05:19.37,Signs,,0,0,0,,{\an7\pos(90,372)}Onlarla takıl, ben birazdan orada olurum.
+Dialogue: 0,0:05:18.30,0:05:19.37,Signs,,0,0,0,,{\an9\pos(1717,604)}Anladım, bekleyeceğim.
+Dialogue: 0,0:05:20.62,0:05:22.31,Default,,0,0,0,,Onu ara istersen.
+Dialogue: 0,0:05:22.62,0:05:25.43,Default,,0,0,0,,Asanagi hakkında endişeleniyorsun, değil mi?
+Dialogue: 0,0:05:25.43,0:05:27.31,Default,,0,0,0,,Ona söyle o zaman.
+Dialogue: 0,0:05:27.31,0:05:30.50,Default,,0,0,0,,Bende iyi bir fikir olduğunu düşünüyorum.
+Dialogue: 0,0:05:30.50,0:05:34.68,Default,,0,0,0,,Umi iyi olmayacağını düşündüğü için kendini zorluyordu.
+Dialogue: 0,0:05:34.68,0:05:35.37,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:05:42.84,0:05:45.12,DefaultItalics,,0,0,0,,Noldu, Maki?
+Dialogue: 0,0:05:45.12,0:05:49.05,DefaultItalics,,0,0,0,,Ne, ben gelmedim diye endişelendin mi?
+Dialogue: 0,0:05:48.80,0:05:50.79,Default,,0,0,0,,Evet, biraz.
+Dialogue: 0,0:05:50.79,0:05:54.12,DefaultItalics,,0,0,0,,Küçük bi' sorun yaşadım, \Nama birazdan orada olurum.
+Dialogue: 0,0:05:54.12,0:05:57.09,DefaultItalics,,0,0,0,,Çikolatayı da getiririm.
+Dialogue: 0,0:05:57.09,0:06:00.50,Default,,0,0,0,,Anladım. Bunu duymam iyi oldu.
+Dialogue: 0,0:06:01.25,0:06:03.22,Default,,0,0,0,,Hey, Umi?
+Dialogue: 0,0:06:03.22,0:06:04.75,DefaultItalics,,0,0,0,,N'oldu?
+Dialogue: 0,0:06:05.60,0:06:09.67,DefaultItalics,,0,0,0,,Evet, yine inatçı damarı tuttu.
+Dialogue: 0,0:06:11.43,0:06:13.18,DefaultItalics,,0,0,0,,N'oldu, Maki?
+Dialogue: 0,0:06:15.91,0:06:18.00,Default,,0,0,0,,Size gelebilir miyim?
+Dialogue: 0,0:06:24.12,0:06:25.75,Default,,0,0,0,,Umi, uh...
+Dialogue: 0,0:06:25.75,0:06:26.56,Default,,0,0,0,,Üzgünüm.
+Dialogue: 0,0:06:26.86,0:06:31.54,Default,,0,0,0,,İlk başta bu kadar üstüne düşmeyi planlamıyordum..
+Dialogue: 0,0:06:31.86,0:06:35.18,Default,,0,0,0,,ama bir kere başladıktan sonra, kendimi durduramadım.
+Dialogue: 0,0:06:35.75,0:06:39.00,Default,,0,0,0,,Ne yaptığını sormamda bir sakınca var mı?
+Dialogue: 0,0:06:39.62,0:06:42.97,Default,,0,0,0,,{\an8}ÇN:Gâteau çikolatası, çikolatalı pasta adı ilede bildiğimiz kekten yapılan bir tatlı türüdür
+Dialogue: 0,0:06:39.62,0:06:42.97,Default,,0,0,0,,Gâteau çikolatası, neye mal olacaksa olsun..
+Dialogue: 0,0:06:43.63,0:06:47.54,DefaultItalics,,0,0,0,,Bu şey, sıklıkla tatlı yapan benim için bile zor görünüyor...
+Dialogue: 0,0:06:48.09,0:06:51.62,DefaultItalics,,0,0,0,,{\i1}Umi becerikli biri değil, bu yüzden bu iş onun için zor gelebilir.{\i0}
+Dialogue: 0,0:06:53.12,0:06:57.25,Default,,0,0,0,,Şu anda sahip olduğum kişiliğe çok aykırı davranıyorum, değil mi?
+Dialogue: 0,0:06:58.38,0:07:00.25,Default,,0,0,0,,Evet, öyle.
+Dialogue: 0,0:07:01.25,0:07:02.56,Default,,0,0,0,,Değil mi?
+Dialogue: 0,0:07:02.56,0:07:05.31,Default,,0,0,0,,Yuu ve Nina'nın ne yapacaklarını bilmediklerini biliyorum...
+Dialogue: 0,0:07:05.31,0:07:07.68,Default,,0,0,0,,ama yine de iyice kafaya taktım.
+Dialogue: 0,0:07:08.06,0:07:11.12,Default,,0,0,0,,Şu anda yaptığım bitince, başka yapmayı bırakacağım.
+Dialogue: 0,0:07:11.12,0:07:13.18,Default,,0,0,0,,Lütfen, benim için bunu deneyebilir misin?
+Dialogue: 0,0:07:13.18,0:07:17.68,Default,,0,0,0,,Pek sanmıyorum, ama eğer denersem kafanı buna takmayı bırakacak mısın?
+Dialogue: 0,0:07:18.31,0:07:19.17,Default,,0,0,0,,Evet.
+Dialogue: 0,0:07:19.17,0:07:25.37,Default,,0,0,0,,İlk denememde mükemmel sonuç beklemekle hata ettim.
+Dialogue: 0,0:07:25.67,0:07:30.04,Default,,0,0,0,,Zaman zaman taviz vermenin önemini biliyorum,\N bu yüzden endişelenme.
+Dialogue: 0,0:07:36.56,0:07:40.54,Default,,0,0,0,,Şey.. sevgililer günün kutlu olsun.
+Dialogue: 0,0:07:40.54,0:07:41.37,Default,,0,0,0,,Teşekkürler.
+Dialogue: 0,0:07:41.37,0:07:43.56,Default,,0,0,0,,Tamam, başlıyoruz.
+Dialogue: 0,0:07:47.18,0:07:49.99,Default,,0,0,0,,Evet, beğendim.
+Dialogue: 0,0:07:52.79,0:07:53.74,Default,,0,0,0,,Teşekkürler.
+Dialogue: 0,0:08:00.25,0:08:04.67,Default,,0,0,0,,Şu an tadı daha iyi, ama \Nyine de ağızda kötü bir tat bırakıyor.
+Dialogue: 0,0:08:04.67,0:08:07.22,Default,,0,0,0,,Sonraki yapışımdan önce pratik yapmam gerek.
+Dialogue: 0,0:08:07.22,0:08:10.22,Default,,0,0,0,,Maki-kun, yemeğe kalıcak mısın?
+Dialogue: 0,0:08:10.48,0:08:12.37,Default,,0,0,0,,Ne yemek istersin?
+Dialogue: 0,0:08:10.48,0:08:12.37,Default,,0,0,0,,{\an8}ÇN:Seri boyunca iş attı. Kraliçedir mesela.
+Dialogue: 0,0:08:12.37,0:08:13.91,Default,,0,0,0,,Y-yok..
+Dialogue: 0,0:08:16.06,0:08:16.85,Default,,0,0,0,,Sora-san,
+Dialogue: 0,0:08:17.24,0:08:20.24,Default,,0,0,0,,mutfağı birazcık kullanabilir miyiz?
+Dialogue: 0,0:08:20.93,0:08:21.61,Default,,0,0,0,,Tabii ki.
+Dialogue: 0,0:08:22.00,0:08:24.87,Default,,0,0,0,,Ne yapacaksın? \NYardımcı olabileceğim bir şey var mı?
+Dialogue: 0,0:08:24.87,0:08:27.61,Default,,0,0,0,,Teşekkür ederim, ama kendimiz yapacağız.
+Dialogue: 0,0:08:27.61,0:08:30.72,Default,,0,0,0,,Umi'nin kaldığı yerden devam edeceğiz, hepsi bu.
+Dialogue: 0,0:08:30.72,0:08:31.87,Default,,0,0,0,,Diyorsunki...
+Dialogue: 0,0:08:32.62,0:08:35.48,Default,,0,0,0,,Çok şey istediğimi biliyorum.
+Dialogue: 0,0:08:35.48,0:08:39.26,Default,,0,0,0,,Ama senden, benim için bir çikolata \N daha yapmayı denemeni istiyorum.
+Dialogue: 0,0:08:39.26,0:08:44.22,Default,,0,0,0,,Bunu yapmak için kendini zorlamadığında, \Nnasıl bir iş çıkaracağını görmek istiyorum.
+Dialogue: 0,0:08:44.22,0:08:47.36,Default,,0,0,0,,Bana gururla verebileceğin bir şey görmek.
+Dialogue: 0,0:08:48.25,0:08:52.12,Default,,0,0,0,,Eğer sen diyorsan, ben varım.
+Dialogue: 0,0:08:52.45,0:08:55.22,Default,,0,0,0,,Ama bu seferki, son yaptığımdan daha da kötü olabilir.
+Dialogue: 0,0:08:55.87,0:08:59.78,Default,,0,0,0,,Eğer sen bir şey yapmışsan, onu yediğim \N en lezzetli şeymiş gibi yerim.
+Dialogue: 0,0:09:00.12,0:09:01.88,Default,,0,0,0,,Bu yüzden elinden geleni yap, Umi
+Dialogue: 0,0:09:01.88,0:09:03.00,Default,,0,0,0,,Aman aman..
+Dialogue: 0,0:09:03.00,0:09:06.48,Default,,0,0,0,,Maki-kun'ada bak sen, tıpkı tutkulu bir antrenör gibi.
+Dialogue: 0,0:09:06.48,0:09:08.19,Default,,0,0,0,,Onu duydun.
+Dialogue: 0,0:09:08.19,0:09:09.88,Default,,0,0,0,,Ne yapacaksın?
+Dialogue: 0,0:09:12.26,0:09:15.45,Default,,0,0,0,,Sormak zorunda mısın?
+Dialogue: 0,0:09:15.45,0:09:16.76,Default,,0,0,0,,O zaman!
+Dialogue: 0,0:09:16.76,0:09:18.01,Default,,0,0,0,,Israr ediyorsan,
+Dialogue: 0,0:09:18.53,0:09:22.64,Default,,0,0,0,,geri kalan bütün malzemeleri kocaman bir kalp çikolata yapacağım.
+Dialogue: 0,0:09:22.97,0:09:26.50,Default,,0,0,0,,Sözünün arkasında durup, onu duygularınla kabul etsen iyi olur.
+Dialogue: 0,0:09:26.50,0:09:28.39,Default,,0,0,0,,Yapacağım, teşekkür ederim.
+Dialogue: 0,0:09:28.39,0:09:30.22,Default,,0,0,0,,Kız arkadaşımla gurur duyuyorum.
+Dialogue: 0,0:09:30.22,0:09:34.89,Default,,0,0,0,,Ve erkek arkadaşım seninle \Nne yapacağımı bilmiyorum?
+Dialogue: 0,0:09:55.50,0:09:57.78,Default,,0,0,0,,Yani? İyi olmuş mu?
+Dialogue: 0,0:09:57.78,0:10:01.23,Default,,0,0,0,,Evet, güzel olmuş. Tam ağzıma layık.
+Dialogue: 0,0:10:02.20,0:10:03.51,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:10:03.51,0:10:07.62,Default,,0,0,0,,Biraz gecikti ama yinede sözümü tutmayı başardım.
+Dialogue: 0,0:10:07.62,0:10:08.61,Default,,0,0,0,,Değil mi?
+Dialogue: 0,0:10:08.61,0:10:12.26,Default,,0,0,0,,Öyle. Benim hakkımda nasıl \Nhissetiğini görmüş oldum.
+Dialogue: 0,0:10:14.37,0:10:17.90,Default,,0,0,0,,Bir köşeye atmadığım için mutluyum.
+Dialogue: 0,0:10:19.49,0:10:21.15,DefaultItalics,,0,0,0,,Sevgililer günü bitince,
+Dialogue: 0,0:10:21.15,0:10:25.21,DefaultItalics,,0,0,0,,{\an8}ÇN:Beyaz günde Erkekler onlara hediye veren \N hanım efendilere hediye veriyorlarmış.
+Dialogue: 0,0:10:21.15,0:10:25.21,DefaultItalics,,0,0,0,,tam tersi olan Beyaz Gün, şıp diye geldi.
+Dialogue: 0,0:10:26.87,0:10:31.75,Default,,0,0,0,,Mm! Beklediğim kadar tatlı değil \Nama aynı zaman da lezzetli.
+Dialogue: 0,0:10:32.25,0:10:37.64,Default,,0,0,0,,Markket alınan kurabiyelere göre daha hafif. Bütün hepsinin yiyebilirim.
+Dialogue: 0,0:10:37.64,0:10:41.13,Default,,0,0,0,,Sınıf temsilcisi, gelecekte \Nev adamı mı olmak istiyorsun?
+Dialogue: 0,0:10:41.13,0:10:44.25,Default,,0,0,0,,Öyle bir hedefim yok..
+Dialogue: 0,0:10:45.19,0:10:49.19,Default,,0,0,0,,E-Eğer istediğin şey buysa, sorun etmiyorum.
+Dialogue: 0,0:10:49.19,0:10:53.84,Default,,0,0,0,,Hatta, sana bakmak çok hoşuma giderdi..
+Dialogue: 0,0:10:53.84,0:10:59.70,Default,,0,0,0,,Uh, sadece hediyenin içinde ne olduğuna bakmanı istiyorum.
+Dialogue: 0,0:10:59.70,0:11:00.50,Default,,0,0,0,,He?
+Dialogue: 0,0:11:00.90,0:11:02.39,Default,,0,0,0,,Yoksa?
+Dialogue: 0,0:11:02.39,0:11:06.34,Default,,0,0,0,,Kızım bu konuşmanın nereye \Ngideceğini düşündün mü acaba?
+Dialogue: 0,0:11:06.34,0:11:08.12,Default,,0,0,0,,Şimdi yumruklarımı savuracağım! Hemde Nina'ya!
+Dialogue: 0,0:11:08.12,0:11:10.62,Default,,0,0,0,,Neden ben? Bunu hak edecek ne yaptım?
+Dialogue: 0,0:11:11.07,0:11:14.72,Default,,0,0,0,,Neden hediyeni kontrol etmiyorsun?
+Dialogue: 0,0:11:14.72,0:11:19.37,Default,,0,0,0,,Sen onun kız arkadaşısın. \NBizden farklı bir almışsındır umarım.
+Dialogue: 0,0:11:24.95,0:11:27.00,Default,,0,0,0,,Biraz araştırdığımda,
+Dialogue: 0,0:11:27.40,0:11:31.59,Default,,0,0,0,,Farklı Beyaz Gün hediyelerinin, farklı anlamları olduğunu öğrendim.
+Dialogue: 0,0:11:31.96,0:11:35.14,Default,,0,0,0,,Kurabiyeler "Uzun süre arkadaş olalım" demek.
+Dialogue: 0,0:11:35.45,0:11:37.89,Default,,0,0,0,,Şekerleme ne anlama geliyor o zaman?
+Dialogue: 0,0:11:39.59,0:11:40.75,Default,,0,0,0,,Ee...
+Dialogue: 0,0:11:44.69,0:11:46.48,Default,,0,0,0,,"Seni seviyorum" demek.
+Dialogue: 0,0:11:48.00,0:11:51.87,Default,,0,0,0,,Evet, onun ne söylediğini \Nduymama gerek bile yok.
+Dialogue: 0,0:11:51.87,0:11:54.25,Default,,0,0,0,,Umi çok belli ediyor.
+Dialogue: 0,0:11:54.94,0:11:56.75,Default,,0,0,0,,Aptal Maki.
+Dialogue: 0,0:11:58.59,0:12:00.13,Default,,0,0,0,,Hey, Maki?
+Dialogue: 0,0:12:00.13,0:12:00.84,Default,,0,0,0,,Hm?
+Dialogue: 0,0:12:01.62,0:12:04.38,Default,,0,0,0,,Hediyem çantanda mı?
+Dialogue: 0,0:12:04.38,0:12:07.63,Default,,0,0,0,,Evet. Oraya geldiğimiz de görürsün.
+Dialogue: 0,0:12:08.01,0:12:10.76,Default,,0,0,0,,Beklemiyorum, ama sabredeceğim.
+Dialogue: 0,0:12:11.37,0:12:16.44,DefaultItalics,,0,0,0,,Bu gün 3 Eylül: Umi'nin doğum günü
+Dialogue: 0,0:12:17.62,0:12:19.47,Default,,0,0,0,,Şey, Umi
+Dialogue: 0,0:12:19.47,0:12:20.22,Default,,0,0,0,,Hmm?
+Dialogue: 0,0:12:20.62,0:12:23.90,Default,,0,0,0,,Amami-san'ın, evi bayağı büyük değil mi?
+Dialogue: 0,0:12:23.90,0:12:25.28,Default,,0,0,0,,Öyle mi?
+Dialogue: 0,0:12:25.28,0:12:29.37,Default,,0,0,0,,Tabii, benim evimden iki kat daha büyük,\N ama yine de normal bir ev sayılıyor.
+Dialogue: 0,0:12:29.75,0:12:35.25,DefaultItalics,,0,0,0,,Her yıl Umi'nin doğum günü, Amami-san'ın evinde kutlanıyor gibi görünüyor.
+Dialogue: 0,0:12:36.25,0:12:38.87,DefaultItalics,,0,0,0,,İkiniz, hoş geldiniz.
+Dialogue: 0,0:12:41.52,0:12:43.63,Default,,0,0,0,,Selam, Eri Teyze.
+Dialogue: 0,0:12:43.89,0:12:46.40,Default,,0,0,0,,Doğum günün kutlu olsun!
+Dialogue: 0,0:12:46.40,0:12:50.59,Default,,0,0,0,,Sana bir sürü yemek yaptım, istediğini yiyebilirsiniz.
+Dialogue: 0,0:12:50.59,0:12:51.37,Default,,0,0,0,,Öyle yapacağım.
+Dialogue: 0,0:12:51.63,0:12:56.38,Default,,0,0,0,,Sana her yıl evini kullandığım için nasıl teşekkür ederim, bilemiyorum.
+Dialogue: 0,0:12:56.38,0:13:01.11,Default,,0,0,0,,Sorun değil. Kızım gibisin sonuçta.
+Dialogue: 0,0:13:01.11,0:13:03.00,Default,,0,0,0,,Hakkında çok duyduğum çocuk bu mu?
+Dialogue: 0,0:13:03.71,0:13:05.50,Default,,0,0,0,,Ben Maehara Maki.
+Dialogue: 0,0:13:06.07,0:13:09.25,Default,,0,0,0,,Teşekkür ederim. Hoş geldin. Ben Amami Eri.
+Dialogue: 0,0:13:11.22,0:13:17.09,Default,,0,0,0,,Son zamanlarda Yuu, Umi-chan hakkında her bahsedişince adın geçiyor,
+Dialogue: 0,0:13:17.09,0:13:23.57,Default,,0,0,0,,Yuu'nun en nihayetinde erkeklere ilgi duymasını \Nsağlayan o kişiyle tanışmayı bekliyordum.
+Dialogue: 0,0:13:23.57,0:13:27.83,Default,,0,0,0,,A-Anne kes şunu! Sana bunu söyleme demiştim.
+Dialogue: 0,0:13:27.83,0:13:29.72,Default,,0,0,0,,Sorun ne?
+Dialogue: 0,0:13:29.72,0:13:33.34,Default,,0,0,0,,Söylediğin gibi nazik naif bir çocukmuş.
+Dialogue: 0,0:13:36.59,0:13:38.71,Default,,0,0,0,,Doğum günü kutlu olsun!
+Dialogue: 0,0:13:40.44,0:13:43.00,Default,,0,0,0,,Umi, Doğum günü kutlu olsun!
+Dialogue: 0,0:13:43.52,0:13:46.22,Default,,0,0,0,,Seninle bu yıl tekrardan kutlayabildiğim için mutluyum.
+Dialogue: 0,0:13:47.62,0:13:49.28,Default,,0,0,0,,Evet, bende.
+Dialogue: 0,0:13:49.28,0:13:51.15,Default,,0,0,0,,Çok mutluyum.
+Dialogue: 0,0:13:53.09,0:13:55.25,Default,,0,0,0,,Ne düşünüyorduk ki?
+Dialogue: 0,0:13:55.25,0:13:59.23,Default,,0,0,0,,Onlar her zaman birbirlerine bağlıydı.
+Dialogue: 0,0:14:06.27,0:14:09.75,Default,,0,0,0,,Neler oluyor bilmiyorum ama benide alın!
+Dialogue: 0,0:14:11.47,0:14:14.74,Default,,0,0,0,,Hepiniz üstüme çullanmayın.
+Dialogue: 0,0:14:14.74,0:14:16.51,Default,,0,0,0,,Siz kızlar...
+Dialogue: 0,0:14:16.51,0:14:21.77,Default,,0,0,0,,Tamam millet. Bana yiyecek ve içecekleri masaya taşımama yardım edin.
+Dialogue: 0,0:14:17.14,0:14:19.77,DefaultTop,,0,0,0,,Tıklım tıklımız!
+Dialogue: 0,0:14:21.77,0:14:23.50,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:14:36.20,0:14:37.44,Default,,0,0,0,,Tamam, Umi.
+Dialogue: 0,0:14:37.44,0:14:38.58,Default,,0,0,0,,Bu benden.
+Dialogue: 0,0:14:39.12,0:14:39.87,Default,,0,0,0,,Evet.
+Dialogue: 0,0:14:39.87,0:14:40.97,Default,,0,0,0,,Başlıyoruz.
+Dialogue: 0,0:14:40.97,0:14:42.87,Default,,0,0,0,,Bugünün ana yemeği.
+Dialogue: 0,0:14:42.87,0:14:44.11,Default,,0,0,0,,Şanslısın.
+Dialogue: 0,0:14:44.50,0:14:48.12,Default,,0,0,0,,Neden hepiniz mesafelisiniz?
+Dialogue: 0,0:14:48.12,0:14:49.62,Default,,0,0,0,,Yani, bilirsin...
+Dialogue: 0,0:14:49.62,0:14:52.98,Default,,0,0,0,,Senin yoluna taş koyuyoruz.
+Dialogue: 0,0:14:52.98,0:14:57.77,Default,,0,0,0,,Eğer bizi görürsen dikkatin dağılabilir.
+Dialogue: 0,0:14:57.77,0:14:59.27,Default,,0,0,0,,Değil mi, Anne?
+Dialogue: 0,0:14:59.27,0:15:01.50,Default,,0,0,0,,Gerçekten sevgilerini o kadar gösteriyorlar mı?
+Dialogue: 0,0:15:01.50,0:15:05.12,Default,,0,0,0,,Evet, hemencecik kendi aşk dünyalarında yok olu veriyorlar.
+Dialogue: 0,0:15:05.12,0:15:09.62,Default,,0,0,0,,Sadece sizin gibi hediyemi vermeye çalışıyorum..
+Dialogue: 0,0:15:11.22,0:15:13.75,Default,,0,0,0,,Komik olan ne, Umi?
+Dialogue: 0,0:15:13.75,0:15:16.23,Default,,0,0,0,,Hiçbir şey.
+Dialogue: 0,0:15:16.23,0:15:18.25,Default,,0,0,0,,Tamam, o zaman.
+Dialogue: 0,0:15:18.25,0:15:19.01,Default,,0,0,0,,Aynen.
+Dialogue: 0,0:15:20.59,0:15:23.61,Default,,0,0,0,,Bu doğum günü hediyen.
+Dialogue: 0,0:15:24.50,0:15:27.82,Default,,0,0,0,,D-Doğum günün kutlu olsun, Umi.
+Dialogue: 0,0:15:29.75,0:15:31.83,Default,,0,0,0,,Şu an, açabilir miyim?
+Dialogue: 0,0:15:32.14,0:15:33.20,Default,,0,0,0,,Tabii ki.
+Dialogue: 0,0:15:40.34,0:15:41.84,Signs,,0,0,0,,Umi'ye, her zaman teşekkür ederim.
+Dialogue: 0,0:15:42.39,0:15:44.37,Signs,,0,0,0,,Umi'ye, her zaman teşekkür ederim.
+Dialogue: 0,0:15:45.12,0:15:45.98,Default,,0,0,0,,Aptal.
+Dialogue: 0,0:15:50.25,0:15:52.00,Default,,0,0,0,,Çok güzel.
+Dialogue: 0,0:15:52.00,0:15:54.98,Default,,0,0,0,,Mavi renk geçişine bayıldım.
+Dialogue: 0,0:15:55.25,0:15:57.02,Default,,0,0,0,,Bu toka mı?
+Dialogue: 0,0:15:57.02,0:16:01.58,Default,,0,0,0,,Evet, parti elbiseleri ve benzerleriyle iyi gittiği söylendi,
+Dialogue: 0,0:16:01.58,0:16:03.19,Default,,0,0,0,,yani mağaza çalışanının söylediği buydu.
+Dialogue: 0,0:16:04.11,0:16:07.75,DefaultItalics,,0,0,0,,İlk başta ona günlük kullanabileceği bir şey alıcaktım.
+Dialogue: 0,0:16:07.75,0:16:10.50,DefaultItalics,,0,0,0,,Ama tam tersini seçtim,
+Dialogue: 0,0:16:10.50,0:16:13.75,DefaultItalics,,0,0,0,,Yılda bir kere takabileceği türden birşey çünkü...
+Dialogue: 0,0:16:14.62,0:16:20.37,Default,,0,0,0,,Seni takarken düşündüm ve üstünde çok güzel olacağını düşündüm.
+Dialogue: 0,0:16:21.71,0:16:23.12,Default,,0,0,0,,Ah...
+Dialogue: 0,0:16:23.76,0:16:26.75,Default,,0,0,0,,Şu an takabilir miyim?
+Dialogue: 0,0:16:27.37,0:16:28.22,Default,,0,0,0,,Buyur.
+Dialogue: 0,0:16:32.25,0:16:34.87,Default,,0,0,0,,Nasıl gözüküyorum?
+Dialogue: 0,0:16:35.58,0:16:38.60,Default,,0,0,0,,Evet, düşüncemde haklıymışım.
+Dialogue: 0,0:16:41.11,0:16:43.57,Default,,0,0,0,,Çok güzelsin, Umi.
+Dialogue: 0,0:16:46.27,0:16:47.25,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:16:47.89,0:16:50.59,Default,,0,0,0,,Buna gözüm gibi bakacağım.
+Dialogue: 0,0:16:50.59,0:16:51.50,Default,,0,0,0,,Tabii.
+Dialogue: 0,0:16:53.82,0:16:55.24,Default,,0,0,0,,Hey, Anne.
+Dialogue: 0,0:16:55.84,0:16:56.88,Default,,0,0,0,,N'oldu?
+Dialogue: 0,0:16:58.50,0:17:00.79,Default,,0,0,0,,Sence bende birisini bulabilir miyim?
+Dialogue: 0,0:17:01.13,0:17:07.77,Default,,0,0,0,,Bana bilmediğim yanlarımı gösterecek birini, tıpkı Umi gibi.
+Dialogue: 0,0:17:08.43,0:17:11.06,Default,,0,0,0,,Bu belli değil mi?
+Dialogue: 0,0:17:11.50,0:17:16.03,Default,,0,0,0,,Sen babanla benim aşkımızın meyvesisin.
+Dialogue: 0,0:17:16.41,0:17:18.00,Default,,0,0,0,,Aşk her zaman hayatında olacaktır.
+Dialogue: 0,0:17:18.45,0:17:19.83,Default,,0,0,0,,Değil mi?
+Dialogue: 0,0:17:21.31,0:17:22.75,Default,,0,0,0,,Sana inanıyorum.
+Dialogue: 0,0:17:23.16,0:17:27.23,DefaultItalics,,0,0,0,,Acaba, bir gün kime abayı yakacağım?
+Dialogue: 0,0:17:27.73,0:17:29.77,DefaultItalics,,0,0,0,,Sadece, onun iyi birisi olması dileğiyle.
+Dialogue: 0,0:17:31.21,0:17:34.32,DefaultItalics,,0,0,0,,Henüz görülmemiş bir aşkın hayalleri ile dolu,
+Dialogue: 0,0:17:34.32,0:17:39.76,DefaultItalics,,0,0,0,,yani benim, Amami Yuu'nun hayatının yeni sezonuna.
+Dialogue: 0,0:17:43.00,0:17:45.31,Default,,0,0,0,,Gelmek istediğin yol burası mıydı?
+Dialogue: 0,0:17:45.31,0:17:46.13,Default,,0,0,0,,Evet.
+Dialogue: 0,0:17:46.75,0:17:51.56,Default,,0,0,0,,Güzel. Dökülmeye başlamış, ama hâlâ çiçekler ile dolu.
+Dialogue: 0,0:17:52.05,0:17:56.27,Default,,0,0,0,,Geçtiğimiz bahar, ona sadece apartman penceremden bakmıştım,
+Dialogue: 0,0:17:56.27,0:17:59.02,Default,,0,0,0,,yani bu sefer daha yakından görmek istedim.
+Dialogue: 0,0:17:59.02,0:18:00.73,Default,,0,0,0,,Evet, güzelmiş.
+Dialogue: 0,0:18:01.27,0:18:06.50,Default,,0,0,0,,Zaten canım doğrudan eve gitmek istemiyordu,
+Dialogue: 0,0:18:06.99,0:18:08.33,Default,,0,0,0,,ama neden burası?
+Dialogue: 0,0:18:08.82,0:18:11.21,Default,,0,0,0,,Özel bir nedeni yok.
+Dialogue: 0,0:18:11.77,0:18:19.45,Default,,0,0,0,,Ama, benim için burası sana teşekkürlerimi sunabileceğim bir yer gibi geldi.
+Dialogue: 0,0:18:21.05,0:18:22.42,Default,,0,0,0,,Hadi oturalım.
+Dialogue: 0,0:18:22.42,0:18:23.16,Default,,0,0,0,,Tamam...
+Dialogue: 0,0:18:29.42,0:18:33.81,Default,,0,0,0,,Biliyorsun, bahar zamanlarını pek sevmem.
+Dialogue: 0,0:18:34.59,0:18:36.27,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:18:36.54,0:18:40.47,Default,,0,0,0,,Kendini, her sene sınıfa tanıtman gerektiği için mi?
+Dialogue: 0,0:18:40.74,0:18:43.30,Default,,0,0,0,,Kabul etmesi utanç verici olsada, evet.
+Dialogue: 0,0:18:43.80,0:18:46.53,Default,,0,0,0,,Hiç kimse hayatıma girmiyor yada çıkmıyor,
+Dialogue: 0,0:18:46.53,0:18:49.94,Default,,0,0,0,,bu yüzden, kendimi durduk yere utanç verici duruma sokuyorum gibi hissediyorum.
+Dialogue: 0,0:18:50.24,0:18:55.72,FlashbackTop,,0,0,0,,Tanıştığımıza memnun oldum. Ben Maehara Maki.
+Dialogue: 0,0:18:50.75,0:18:55.29,Default,,0,0,0,,Genellikle, yılın en depresif hissettiğim dönemleri.
+Dialogue: 0,0:18:57.43,0:19:01.69,Default,,0,0,0,,Ama, bu yıl sadece önümüze odaklanacağım.
+Dialogue: 0,0:19:02.67,0:19:04.50,Default,,0,0,0,,Çünkü...
+Dialogue: 0,0:19:05.09,0:19:08.05,Default,,0,0,0,,Ben olduğum için mi?
+Dialogue: 0,0:19:08.39,0:19:09.76,Default,,0,0,0,,Tabiki de.
+Dialogue: 0,0:19:09.76,0:19:13.04,Default,,0,0,0,,Sonraki sene, sen ile benim aynı sınıfa düşeceğimizin garantisi yok,
+Dialogue: 0,0:19:13.04,0:19:16.70,Default,,0,0,0,,Ve grubun geri kalanından ayrıda düşebilirim.
+Dialogue: 0,0:19:17.97,0:19:21.72,DefaultItalics,,0,0,0,,Ama şuanda eskisinden farklı olarak, kendimi yanlız hissetmeyeceğim.
+Dialogue: 0,0:19:22.13,0:19:24.93,DefaultItalics,,0,0,0,,Ne zaman onlara ihtiyacım olsa, hep yanımda olan arkadaşlarım var,
+Dialogue: 0,0:19:24.93,0:19:29.38,DefaultItalics,,0,0,0,,ve ne zaman yanlız hissetsem, bana destek olacak bir sevgilim.
+Dialogue: 0,0:19:30.75,0:19:35.06,Default,,0,0,0,,Umi, sana arkadaşım olduğun için,
+Dialogue: 0,0:19:35.80,0:19:37.59,Default,,0,0,0,,beni sevdiğin için,
+Dialogue: 0,0:19:38.79,0:19:41.72,Default,,0,0,0,,ve sevgilim olduğun için.
+Dialogue: 0,0:19:43.55,0:19:48.51,Default,,0,0,0,,İyi birisi olma yolunda küçük adımlar attırdığın için, sana teşekkür ederim.
+Dialogue: 0,0:19:48.99,0:19:53.75,Default,,0,0,0,,Yani, ne zaman bir şey hakkında endişelenirsen lütfen bana söyle.
+Dialogue: 0,0:19:54.09,0:19:56.05,Default,,0,0,0,,Saklaman gereken bir şey yok.
+Dialogue: 0,0:19:56.05,0:20:01.50,Default,,0,0,0,,Emin misin? Sana herşeyi söylemeye başladığımda benden bıkmayacaksın değil mi?
+Dialogue: 0,0:20:02.00,0:20:06.75,Default,,0,0,0,,Bazen ne kadar muhtaç ve yapışkan olabildiğime ben bile şaşıyorum, biliyor musun?
+Dialogue: 0,0:20:07.07,0:20:11.03,Default,,0,0,0,,Her şeyi kıskanıyorum, ve ilgiye muhtacım.
+Dialogue: 0,0:20:11.75,0:20:17.75,Default,,0,0,0,,Tabiki eminim, bu sadece beni ne kadar sevdiğini gösterir.
+Dialogue: 0,0:20:20.50,0:20:24.50,Default,,0,0,0,,Sen benimsin, bu kadar basit.
+Dialogue: 0,0:20:25.71,0:20:27.05,Default,,0,0,0,,Sen centilmensin, nazik bir doğan var.
+Dialogue: 0,0:20:27.05,0:20:28.84,Default,,0,0,0,,ve hatta biraz korkak olduğunda ortada...
+Dialogue: 0,0:20:29.24,0:20:32.56,Default,,0,0,0,,Seni oluşturan her parça benim, sadece benim...
+Dialogue: 0,0:20:33.00,0:20:34.02,Default,,0,0,0,,Tabii ki.
+Dialogue: 0,0:20:34.02,0:20:37.57,Default,,0,0,0,,Ben her zaman seninim, Umi.
+Dialogue: 0,0:20:47.69,0:20:49.53,Default,,0,0,0,,Evet, biliyorum.
+Dialogue: 0,0:20:56.00,0:20:58.07,Default,,0,0,0,,Sonunda anladın demek?
+Dialogue: 0,0:20:58.07,0:21:01.38,Default,,0,0,0,,Biraz boy mu atmışım?
+Dialogue: 0,0:21:01.38,0:21:02.25,Default,,0,0,0,,Bingo.
+Dialogue: 0,0:21:06.02,0:21:08.26,Default,,0,0,0,,Bana bir saniye ver.
+Dialogue: 0,0:21:16.83,0:21:22.27,Default,,0,0,0,,Şu anda biraz daha uzun olabilirsin ancak, hala ideal boy tercihime çok uzaksın.
+Dialogue: 0,0:21:23.25,0:21:24.75,Default,,0,0,0,,Derken?
+Dialogue: 0,0:21:24.75,0:21:30.45,Default,,0,0,0,,Şu anda, dümdüz birbirimizin gözlerine bakabilmemizi ne kadar sevsemde.
+Dialogue: 0,0:21:31.33,0:21:37.48,Default,,0,0,0,,Seni öpmek için parmak uçlarımda durmam gereken bi boy farkımızın olmasınıda, isterdim.
+Dialogue: 0,0:21:39.53,0:21:42.95,Default,,0,0,0,,Evet, ama o kadar uzayabileceğimi sanmıyorum.
+Dialogue: 0,0:21:44.31,0:21:48.22,Default,,0,0,0,,Ama senin ideal erkeğin olabilmek için, gereken her şeyi deneyeceğim.
+Dialogue: 0,0:21:49.23,0:21:51.81,Default,,0,0,0,,Evet, bunu yapmalısın. Maki!
+Dialogue: 0,0:21:55.17,0:21:58.50,DefaultItalics,,0,0,0,,Yeni hedefim en açık şekilde ortadaydı,
+Dialogue: 0,0:21:59.04,0:22:03.75,DefaultItalics,,0,0,0,,Yeni bir sezona doğru, ilk adımlarımızı atıyorduk.
+Dialogue: 0,0:21:59.04,0:22:03.75,DefaultItalics,,0,0,0,,{\an8}ÇN: Bir başyapıt daha burada sona eriyor izleyen herkese teşekkürler.\NMangada Bölüm 35'ten başlayabilirsiniz.
